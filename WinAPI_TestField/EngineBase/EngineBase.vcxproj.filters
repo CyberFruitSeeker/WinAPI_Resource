@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Debug">
+      <UniqueIdentifier>{edb6ad3b-839e-4ae7-ae43-57af71a057f0}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="IO">
+      <UniqueIdentifier>{1d18801c-846c-47c8-bd51-483f4e245ec7}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Math">
+      <UniqueIdentifier>{7cd5d363-c1f2-49c1-877c-3cc8ebbe102c}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Object">
+      <UniqueIdentifier>{1d69b3bd-7326-48d5-b3fa-80590b8c1d4e}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="String">
+      <UniqueIdentifier>{1325d546-a9a1-4a82-8c6d-ea9b163f33e9}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Time">
+      <UniqueIdentifier>{7c259e08-6007-4426-9f8b-b1ad5dc45d5b}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
