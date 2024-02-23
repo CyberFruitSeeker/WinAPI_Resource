@@ -1,2 +1,21 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003" />
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Object">
+      <UniqueIdentifier>{649e14cc-327a-49e2-ab20-486a7964da92}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Object\Mario%28Player%29">
+      <UniqueIdentifier>{a524ed73-ddcc-414e-985b-1bd89c9b1117}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Mario.h">
+      <Filter>Object\Mario%28Player%29</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="Mario.cpp">
+      <Filter>Object\Mario%28Player%29</Filter>
+    </ClCompile>
+  </ItemGroup>
+</Project>
