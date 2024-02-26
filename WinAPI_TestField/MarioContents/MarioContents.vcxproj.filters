@@ -10,6 +10,9 @@
     <Filter Include="Object\Mario%28Player%2902">
       <UniqueIdentifier>{6e36b2ba-8f8b-42f5-ba5a-1e21d29005b2}</UniqueIdentifier>
     </Filter>
+    <Filter Include="Object\Mario%28Player%2903">
+      <UniqueIdentifier>{f2c686ad-d7e9-4e63-b1f0-1489d6a24940}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Mario.h">
@@ -18,6 +21,9 @@
     <ClInclude Include="Mario002.h">
       <Filter>Object\Mario%28Player%2902</Filter>
     </ClInclude>
+    <ClInclude Include="Mario003.h">
+      <Filter>Object\Mario%28Player%2903</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="Mario.cpp">
@@ -25,6 +31,9 @@
     </ClCompile>
     <ClCompile Include="Mario002.cpp">
       <Filter>Object\Mario%28Player%2902</Filter>
+    </ClCompile>
+    <ClCompile Include="Mario003.cpp">
+      <Filter>Object\Mario%28Player%2903</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
