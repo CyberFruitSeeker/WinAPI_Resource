@@ -141,9 +141,17 @@
       <SubType>
       </SubType>
     </ClInclude>
+    <ClInclude Include="Mario002.h">
+      <SubType>
+      </SubType>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="Mario.cpp">
+      <SubType>
+      </SubType>
+    </ClCompile>
+    <ClCompile Include="Mario002.cpp">
       <SubType>
       </SubType>
     </ClCompile>
