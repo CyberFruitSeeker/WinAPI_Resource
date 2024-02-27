@@ -153,6 +153,14 @@
       <SubType>
       </SubType>
     </ClInclude>
+    <ClInclude Include="Mario005.h">
+      <SubType>
+      </SubType>
+    </ClInclude>
+    <ClInclude Include="Physics.h">
+      <SubType>
+      </SubType>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="Mario.cpp">
@@ -168,6 +176,14 @@
       </SubType>
     </ClCompile>
     <ClCompile Include="Mario004.cpp">
+      <SubType>
+      </SubType>
+    </ClCompile>
+    <ClCompile Include="Mario005.cpp">
+      <SubType>
+      </SubType>
+    </ClCompile>
+    <ClCompile Include="Physics.cpp">
       <SubType>
       </SubType>
     </ClCompile>

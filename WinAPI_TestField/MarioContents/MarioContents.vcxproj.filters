@@ -1,48 +1,69 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <ItemGroup>
-    <Filter Include="Object">
+    <Filter Include="MarioClassBackUp">
+      <UniqueIdentifier>{948b8257-942a-485a-bdbe-23c47430fe81}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="PhysicsClass_BackUp">
+      <UniqueIdentifier>{279802e9-b7cc-40ea-b0bf-f3294c6e7799}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="MarioClassBackUp\Object">
       <UniqueIdentifier>{649e14cc-327a-49e2-ab20-486a7964da92}</UniqueIdentifier>
     </Filter>
-    <Filter Include="Object\Mario%28Player%29">
+    <Filter Include="MarioClassBackUp\Object\Mario%28Player%29">
       <UniqueIdentifier>{a524ed73-ddcc-414e-985b-1bd89c9b1117}</UniqueIdentifier>
     </Filter>
-    <Filter Include="Object\Mario%28Player%2902">
+    <Filter Include="MarioClassBackUp\Object\Mario%28Player%2902">
       <UniqueIdentifier>{6e36b2ba-8f8b-42f5-ba5a-1e21d29005b2}</UniqueIdentifier>
     </Filter>
-    <Filter Include="Object\Mario%28Player%2903">
+    <Filter Include="MarioClassBackUp\Object\Mario%28Player%2903">
       <UniqueIdentifier>{f2c686ad-d7e9-4e63-b1f0-1489d6a24940}</UniqueIdentifier>
     </Filter>
-    <Filter Include="Object\Mario04">
+    <Filter Include="MarioClassBackUp\Object\Mario04">
       <UniqueIdentifier>{d22850d6-7550-4e58-a3d5-6c393a59ec2e}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="MarioClassBackUp\Object\Mario05">
+      <UniqueIdentifier>{bd469055-0696-461d-8aa4-787505a17821}</UniqueIdentifier>
     </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Mario.h">
-      <Filter>Object\Mario%28Player%29</Filter>
+      <Filter>MarioClassBackUp\Object\Mario%28Player%29</Filter>
     </ClInclude>
     <ClInclude Include="Mario002.h">
-      <Filter>Object\Mario%28Player%2902</Filter>
+      <Filter>MarioClassBackUp\Object\Mario%28Player%2902</Filter>
     </ClInclude>
     <ClInclude Include="Mario003.h">
-      <Filter>Object\Mario%28Player%2903</Filter>
+      <Filter>MarioClassBackUp\Object\Mario%28Player%2903</Filter>
     </ClInclude>
     <ClInclude Include="Mario004.h">
-      <Filter>Object\Mario04</Filter>
+      <Filter>MarioClassBackUp\Object\Mario04</Filter>
+    </ClInclude>
+    <ClInclude Include="Mario005.h">
+      <Filter>MarioClassBackUp\Object\Mario05</Filter>
+    </ClInclude>
+    <ClInclude Include="Physics.h">
+      <Filter>PhysicsClass_BackUp</Filter>
     </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="Mario.cpp">
-      <Filter>Object\Mario%28Player%29</Filter>
+      <Filter>MarioClassBackUp\Object\Mario%28Player%29</Filter>
     </ClCompile>
     <ClCompile Include="Mario002.cpp">
-      <Filter>Object\Mario%28Player%2902</Filter>
+      <Filter>MarioClassBackUp\Object\Mario%28Player%2902</Filter>
     </ClCompile>
     <ClCompile Include="Mario003.cpp">
-      <Filter>Object\Mario%28Player%2903</Filter>
+      <Filter>MarioClassBackUp\Object\Mario%28Player%2903</Filter>
     </ClCompile>
     <ClCompile Include="Mario004.cpp">
-      <Filter>Object\Mario04</Filter>
+      <Filter>MarioClassBackUp\Object\Mario04</Filter>
+    </ClCompile>
+    <ClCompile Include="Mario005.cpp">
+      <Filter>MarioClassBackUp\Object\Mario05</Filter>
+    </ClCompile>
+    <ClCompile Include="Physics.cpp">
+      <Filter>PhysicsClass_BackUp</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>

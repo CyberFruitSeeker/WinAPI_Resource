@@ -7,5 +7,8 @@
     <Filter Include="Object">
       <UniqueIdentifier>{008c08c6-8d3b-4769-9505-3be5cc91b43e}</UniqueIdentifier>
     </Filter>
+    <Filter Include="Resources">
+      <UniqueIdentifier>{ae57e687-d010-4c6e-92d8-a36571bd2a92}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
 </Project>
